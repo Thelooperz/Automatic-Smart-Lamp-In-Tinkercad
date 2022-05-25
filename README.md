@@ -1,5 +1,4 @@
 # Automatic-Smart-Lamp-In-Tinkercad
-# SMART-AUTOMATIC-LAMP-ARDUINO-IN-TINKERCAD
 LINK YOUTUBE : https://youtu.be/Gtf7Uam3QSo
 THIS PROJECT IS CREATED BY MY TEAM
 1. ME
